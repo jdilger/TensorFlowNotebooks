@@ -3,4 +3,4 @@
 
 
 # Sampling
-![alt text](https://i.imgur.com/42nx7Zf.png)
+![alt text](imgs/samplingExport.png)
